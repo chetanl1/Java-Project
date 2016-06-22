@@ -1,0 +1,5 @@
+shoppingc\controller\UserController.class
+shoppingc\controller\CategoryController.class
+shoppingc\dao\CategoryDAO.class
+shopping\bean\Category.class
+shoppingc\dao\UserDAO.class
