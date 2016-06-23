@@ -1,0 +1,7 @@
+shopping\bean\Category.class
+shoppingc\dao\UserDAO.class
+shoppingc\dao\CategoryDAO.class
+shoppingc\controller\HomeController.class
+shoppingc\controller\UserController.class
+shoppingc\controller\LoginController.class
+shoppingc\controller\CategoryController.class
